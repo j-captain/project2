@@ -169,6 +169,6 @@ bool checkDraw(char *theSpaces)
          cout<<"WOW,ITS A DRAW!!"<<endl;
          cout<<"••••••••••••••••••••••••••••••••••••••••••••"<<endl;
          cout<<"••••••••••••••••••••••••••••••••••••••••••••"<<endl;
-         
+         cout<<"WE ARE DONE"<<endl;
          return true;
 }
